@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEMIGODJADAK
-- 👀 I’m interested in Web designing & Data analysis
+- 👀 I’m interested in Tech, Art & Science
 - 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on anything frontend
+- 💞️ I’m looking to collaborate on any innovative project
 - 📫 How to reach me: 
 - Instagram @akodsgram
 - Twitter @akodster
